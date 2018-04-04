@@ -74,7 +74,6 @@ Please ensure that the tests are passing when submitting a pull request. If you'
 - [ark-paperwallet](https://github.com/ArkEcosystem/ark-paperwallet)
 - [ARKcommander](https://github.com/ArkEcosystem/ARKcommander)
 - [ark-ts](https://github.com/ArkEcosystem/ark-ts)
-- [ark-android-monitor](https://github.com/ArkEcosystem/ark-android-monitor)
 - [ark-ios-monitor](https://github.com/ArkEcosystem/ark-ios-monitor)
 - [ark-go](https://github.com/ArkEcosystem/ark-go)
 - [ark-ledger](https://github.com/ArkEcosystem/ark-ledger)
