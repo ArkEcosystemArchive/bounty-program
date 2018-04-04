@@ -2,7 +2,7 @@
 
 Thanks for your interest in contributing to the ARK Ecosystem! Please take a moment to review this document **before submitting a pull request**.
 
-## Bounty Program
+## Introduction
 
 ARK has a bounty program for all accepted PR (Pull Requests) for this repository
 
