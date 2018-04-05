@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/ArkEcosystem/ark-deployer/blob/master/banner.png" />
+    <img src="https://raw.githubusercontent.com/ArkEcosystem/ARK-Bounty-Program/master/banner.png" />
 </p>
 
 Thanks for your interest in contributing to the ARK Ecosystem! Please take a moment to review this document **before submitting a pull request**.
