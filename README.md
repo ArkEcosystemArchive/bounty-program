@@ -20,11 +20,12 @@ Before pushing PR, please [jump in our slack #development](https://ark.io/slack)
 
 ### Accepted PR
 
-- increase general code quality,
-- add meaningful tests,
-- correct bug,
-- add new features,
-- improve documentation,
+- General Refactor
+- Adding & Refactoring Tests
+- Improving Test Coverage
+- General Bug Fixes
+- Implement new features
+- Improve documentation
 - create something new for ARK.
 
 ## Pull requests
